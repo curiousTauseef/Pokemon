@@ -10,7 +10,7 @@ public class Bulbasaur {
    static int razorLeaf = rand.nextInt(100) + 1;
    static int tackle = rand.nextInt(20) + 40;   
      
-	public static String getType(){
-  	return type;
- 	}
+public static String getType(){
+  return type;
+ }
 }
