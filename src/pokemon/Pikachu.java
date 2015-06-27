@@ -13,4 +13,4 @@ public class Pikachu {
    public static String getType() {
       return type;
    }
-}
+}	

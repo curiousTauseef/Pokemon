@@ -1,6 +1,7 @@
 /*	Author: Jordan Wu
  * 	Date: 12/15/2014
  */
+
 package pokemon;
 import java.util.Random;
 import java.util.Scanner;
